@@ -1,2 +1,9 @@
 # juno-docker
-Juno docker images
+
+> Version: v0.0.0
+
+Docker image for Juno. To load the docker file use:
+
+```bash
+docker load --input juno-docker.tar
+```
