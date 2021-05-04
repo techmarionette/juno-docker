@@ -1,6 +1,6 @@
 # juno-docker
 
-> Version: v0.5.10
+> Version: v0.5.11
 
 Docker image for Juno. To load the docker file use:
 
